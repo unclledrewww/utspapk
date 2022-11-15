@@ -1,0 +1,26 @@
+{
+	"name": "Car Rental Application",
+	"short_name": "CRA - Surya Wiguna",
+	"start_url": ".",
+	"display": "standalone",
+	"background_color": "#2A3443",
+	"description": "Car Rental Application",
+	"theme_color": "#2A3443",
+	"icons": [
+		{
+			"src": "img/car.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		},
+		{
+			"src": "img/car-192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "img/car-144.png",
+			"sizes": "144x144",
+			"type": "image/png"
+		}
+	]
+}
